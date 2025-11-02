@@ -15,3 +15,6 @@ User → Message (recipient): A user can receive many messages
 
 One-to-One (1:1) Relationship:
 Booking → Payment: Each booking has exactly one payment record
+
+
+https://drive.google.com/file/d/1l8M1f-ax0tFI_tOiRRiVImjxAIHOKOVt/view?usp=sharing
