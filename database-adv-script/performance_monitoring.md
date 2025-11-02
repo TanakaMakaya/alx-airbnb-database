@@ -1,1 +1,6 @@
-EXPLAIN SELECT * FROM Booking WHERE user_id = 'some-user-id';
+# Database Performance Monitoring and Refinement
+
+## Queries Monitored
+
+1. Booking with User and Property join filtering on status
+
